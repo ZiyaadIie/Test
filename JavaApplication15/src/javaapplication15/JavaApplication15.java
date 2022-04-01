@@ -4,8 +4,8 @@
  */
 package javaapplication15;
 
-/**
- *
+//
+ /*
  * @author Lenovo
  */
 public class JavaApplication15 {
